@@ -86,15 +86,15 @@ bottom: 300px;
 }
 
 .computer-image{
-  height: 4px;
-  width: 4px;
+  height: 200px;
+  width: 200px;
   border-radius: 50%;
   float: left;
   margin-right: 30px;
 }
 .code-image{
-  height: 4px;
-  width: 4px;
+  height: 200px;
+  width: 200px;
   float: right;
   margin-left: 30px;
 }
