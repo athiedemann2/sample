@@ -86,15 +86,15 @@ bottom: 300px;
 }
 
 .computer-image{
-  height: 25%;
-  width: 25%;
+  height: 4px;
+  width: 4px;
   border-radius: 50%;
   float: left;
   margin-right: 30px;
 }
 .code-image{
-  height: 25%;
-  width: 25%;
+  height: 4px;
+  width: 4px;
   float: right;
   margin-left: 30px;
 }
